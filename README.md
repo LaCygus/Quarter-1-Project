@@ -1,5 +1,6 @@
 # Quarter-1-Project
 
+You need to check the https://github.com/Trustworthy-ML-Lab/CLIP-dissect/tree/main site and git clone it!
 Install Python (3.10)
 
 Install Pytorch (tested with 1.12.0, also works with 2.0) and Torchvision >= 0.13 following instructions from https://pytorch.org/get-started/previous-versions/
